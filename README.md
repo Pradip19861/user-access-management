@@ -1,7 +1,24 @@
 # User Access Management System
 
 This is a Spring Boot project that provides a user access management system using PostgreSQL as the database. This README provides step-by-step instructions on setting up the project locally and running it. 
-![image](https://github.com/user-attachments/assets/5840b2d1-634d-4d06-bb91-5680a987a98a)
+![image](https://github.com/user-attachments/assets/d2710243-bd07-45b1-9ad0-19f9bc2fbf13)
+![image](https://github.com/user-attachments/assets/4eb454d4-b934-4585-bd37-9953fb00aa13)
+![image](https://github.com/user-attachments/assets/3185de77-a41e-4347-a52b-88fa5f74a216)
+![image](https://github.com/user-attachments/assets/743266f6-4e51-4fed-ae08-f0061a4c19a5)
+![image](https://github.com/user-attachments/assets/30095901-dbce-4e16-8670-b4505b106cb0)
+![image](https://github.com/user-attachments/assets/9626d803-e2c6-4697-a015-b69b442fd21f)
+![image](https://github.com/user-attachments/assets/3590bb59-c94a-4f22-8aca-63c5b81c20ec)
+![image](https://github.com/user-attachments/assets/6666e5f5-db9d-41be-a2c5-063a77eafdcd)
+![image](https://github.com/user-attachments/assets/b35b6091-7f1c-423f-86d1-a1ab2025459d)
+
+
+
+
+
+
+
+
+
 
 
 ## Project Repository
